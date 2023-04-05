@@ -26,8 +26,8 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 |Topic|Link|
 |---|---|
+|Connect Python/Node.js on EC2/Lamda to AWS RDS using IAM Authentication|<https://github.com/joetanx/aws-rds-iam-authn/>|
 |Notes and examples on using node.js|<https://github.com/joetanx/node.js/>|
-||<https://github.com/joetanx/aws-rds-iam-authn/>|
 |Load Balancing CyberArk Servers|<https://github.com/joetanx/load-balancing-cyberark/>|
 |Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)|<https://github.com/joetanx/setup/blob/main/cri-o-kube.md>|
 |Setup MySQL database|<https://github.com/joetanx/setup/blob/main/mysql.md>|
