@@ -22,18 +22,13 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Ansible Core + Conjur|<https://github.com/joetanx/conjur-ansible/>|
 |Puppet + Conjur|<https://github.com/joetanx/conjur-puppet/>|
 
-### AWS
-
-|Topic|Link|
-|---|---|
-|Connect Python/Node.js on EC2/Lamda to AWS RDS using Secrets Manager|<https://github.com/joetanx/aws-rds-sm/>|
-|Connect Python/Node.js on EC2/Lamda to AWS RDS using IAM Authentication|<https://github.com/joetanx/aws-rds-iam-authn/>|
-|Notes and examples on using node.js|<https://github.com/joetanx/node.js/>|
-
 ### Others
 
 |Topic|Link|
 |---|---|
+|Using AWS RDS with Secrets Manager<br>• EC2 examples with Python and Node.js<br>• AJAX client + API Gateway + Lambda / Node.js|<https://github.com/joetanx/aws-rds-sm/>|
+|Using AWS RDS with IAM Authentication<br>• EC2 examples with Python and Node.js<br>• AJAX client + API Gateway + Lambda / Node.js|<https://github.com/joetanx/aws-rds-iam-authn/>|
+|Notes and examples on using node.js|<https://github.com/joetanx/node.js/>|
 |Load Balancing CyberArk Servers|<https://github.com/joetanx/load-balancing-cyberark/>|
 |Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)|<https://github.com/joetanx/setup/blob/main/cri-o-kube.md>|
 |Setup MySQL database|<https://github.com/joetanx/setup/blob/main/mysql.md>|
