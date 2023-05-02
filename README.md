@@ -26,6 +26,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 |Topic|Link|
 |---|---|
+|SOC Lab<br>Work in progress|<https://github.com/joetanx/soc-lab/>|
 |Using AWS RDS + Secrets Manager with<br>AJAX client + API Gateway + Lambda (Node.js)<br>+ EC2 examples with Python and Node.js|<https://github.com/joetanx/aws-rds-sm/>|
 |Using AWS RDS + IAM Authentication with<br>AJAX client + API Gateway + Lambda (Node.js)<br>+ EC2 examples with Python and Node.js|<https://github.com/joetanx/aws-rds-iam-authn/>|
 |Notes and examples on using node.js|<https://github.com/joetanx/node.js/>|
