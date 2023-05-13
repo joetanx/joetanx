@@ -32,5 +32,6 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Notes and examples on using node.js|<https://github.com/joetanx/node.js/>|
 |Load Balancing CyberArk Servers|<https://github.com/joetanx/load-balancing-cyberark/>|
 |Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)|<https://github.com/joetanx/setup/blob/main/cri-o-kube.md>|
+|Setup single-node Openshift|<https://github.com/joetanx/setup/blob/main/single-node-openshift.md>|
 |Setup MySQL database|<https://github.com/joetanx/setup/blob/main/mysql.md>|
 |Generate a self-signed certificate chain with openssl|<https://github.com/joetanx/setup/blob/main/self-signed-ca.md>|
