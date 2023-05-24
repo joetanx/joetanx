@@ -17,6 +17,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |GitLab + Conjur|<https://github.com/joetanx/conjur-gitlab/>|
 |Jenkins + Conjur|<https://github.com/joetanx/conjur-jenkins/>|
 |Kubernetes + Conjur|<https://github.com/joetanx/conjur-k8s/>|
+|Kubernetes + Conjur Cloud|<https://github.com/joetanx/cjc-k8s/>|
 |Openshift + Conjur|<https://github.com/joetanx/conjur-ocp/>|
 |Terraform + Conjur|<https://github.com/joetanx/conjur-terraform/>|
 |Ansible Automation Platform + CCP and Conjur|<https://github.com/joetanx/cybr-aap/>|
