@@ -12,17 +12,18 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 ### CyberArk Secrets Manager Integrations
 
-|Topic|Link|
-|---|---|
-|GitLab + Conjur|<https://github.com/joetanx/conjur-gitlab/>|
-|Jenkins + Conjur|<https://github.com/joetanx/conjur-jenkins/>|
-|Kubernetes + Conjur|<https://github.com/joetanx/conjur-k8s/>|
-|Kubernetes + Conjur Cloud|<https://github.com/joetanx/cjc-k8s/>|
-|Openshift + Conjur|<https://github.com/joetanx/conjur-ocp/>|
-|Terraform + Conjur|<https://github.com/joetanx/conjur-terraform/>|
-|Ansible Automation Platform + CCP and Conjur|<https://github.com/joetanx/cybr-aap/>|
-|Ansible Core + Conjur|<https://github.com/joetanx/conjur-ansible/>|
-|Puppet + Conjur|<https://github.com/joetanx/conjur-puppet/>|
+|Topic|CyberArk<br>Product|Link|
+|---|---|---|
+|Kubernetes|Conjur Cloud|<https://github.com/joetanx/cjc-k8s/>|
+|GitLab + Terraform|Conjur Cloud|<https://github.com/joetanx/cjc-gitlab-terraform/>|
+|Kubernetes|Conjur|<https://github.com/joetanx/conjur-k8s/>|
+|Openshift|Conjur|<https://github.com/joetanx/conjur-ocp/>|
+|GitLab|Conjur|<https://github.com/joetanx/conjur-gitlab/>|
+|Jenkins|Conjur|<https://github.com/joetanx/conjur-jenkins/>|
+|Terraform|Conjur|<https://github.com/joetanx/conjur-terraform/>|
+|Ansible Automation Platform|CCP/Conjur|<https://github.com/joetanx/cybr-aap/>|
+|Ansible Core|Conjur|<https://github.com/joetanx/conjur-ansible/>|
+|Puppet|Conjur|<https://github.com/joetanx/conjur-puppet/>|
 
 ### Applications
 
