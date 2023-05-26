@@ -15,7 +15,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Topic|CyberArk<br>Product|Link|
 |---|---|---|
 |Kubernetes|Conjur Cloud|<https://github.com/joetanx/cjc-k8s/>|
-|GitLab + Terraform|Conjur Cloud|<https://github.com/joetanx/cjc-gitlab-terraform/>|
+|GitLab (+ Terraform)|Conjur Cloud|<https://github.com/joetanx/cjc-gitlab/>|
 |Kubernetes|Conjur|<https://github.com/joetanx/conjur-k8s/>|
 |Openshift|Conjur|<https://github.com/joetanx/conjur-ocp/>|
 |GitLab|Conjur|<https://github.com/joetanx/conjur-gitlab/>|
