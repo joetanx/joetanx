@@ -43,4 +43,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Setup MySQL database|<https://github.com/joetanx/setup/blob/main/mysql.md>|
 |Setup PostgreSQL database|<https://github.com/joetanx/setup/blob/main/postgres.md>|
 |Generate self-signed certificate chain with openssl|<https://github.com/joetanx/lab-certs/>|
+|Hashicorp Vault and Boundary|<https://github.com/joetanx/hashicorp>|
+|Delinea Secret Server|<https://github.com/joetanx/delinea-secret-server>|
+|Teleport|<https://github.com/joetanx/teleport>|
 |SOC Lab<br>Work in progress|<https://github.com/joetanx/soc-lab/>|
