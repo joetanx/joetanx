@@ -46,4 +46,4 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Hashicorp Vault and Boundary|<https://github.com/joetanx/hashicorp>|
 |Delinea Secret Server|<https://github.com/joetanx/delinea-secret-server>|
 |Teleport|<https://github.com/joetanx/teleport>|
-|SOC Lab<br>Work in progress|<https://github.com/joetanx/setup/blob/main/soc-lab.md>|
+|Elastic SOC Lab + Suricata and CyberArk PAM integration|<https://github.com/joetanx/setup/blob/main/soc-lab.md>|
