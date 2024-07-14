@@ -27,8 +27,9 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 |Topic|Link|
 |---|---|
+|UsersApp Node.js|<https://github.com/joetanx/usersapp/>|
 |CityApp PHP|<https://github.com/joetanx/cityapp-php/>|
-|Notes and examples on using node.js|<https://github.com/joetanx/node.js/>|
+|Notes and examples on using Node.js|<https://github.com/joetanx/node.js/>|
 |Serverless application on AWS<br>• AJAX client end page<br>• API Gateway<br>• Lambda (Node.js)<br>• RDS (MySQL)<br>• EC2 examples with Python and Node.js|Secrets Manager: <https://github.com/joetanx/aws-rds-sm/><br>IAM Authentication: <https://github.com/joetanx/aws-rds-iam-authn/>|
 
 ### Others
