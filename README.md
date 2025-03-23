@@ -2,6 +2,17 @@
 
 Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
+### Microsoft Lab
+
+|Topic|Link|
+|---|---|
+|Setup a basic Azure environment with bastion and NAT gateway for inbound and outbound communication|https://github.com/joetanx/mstechspec/blob/main/lab/basic-infra.md|
+|Onboard VM credentials to Azure key vault to secure VM access via bastion|https://github.com/joetanx/mstechspec/blob/main/lab/akv-vm-credentials.md|
+|Setup the [UsersApp](https://github.com/joetanx/usersapp/) behind Azure application gateway with WAF protection|https://github.com/joetanx/mstechspec/blob/main/lab/az-usersapp-waf.md|
+|Setup Azure Arc connection for on-premise Windows and Linux machines|https://github.com/joetanx/mstechspec/blob/main/lab/az-arc.md|
+|Setup basic Sentinel workspace with Windows and Linux logs ingestion|https://github.com/joetanx/mstechspec/blob/main/lab/sentinel-init.md|
+|Setup Windows event forwarding between machines in separate domains or WORKGROUP environments|https://github.com/joetanx/setup/blob/main/win-event-forwarding.md|
+
 ### Conjur Setup
 
 |Topic|Link|
