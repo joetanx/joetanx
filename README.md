@@ -9,8 +9,6 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Setup basic Sentinel workspace with Windows and Linux logs ingestion|https://github.com/joetanx/sentinel/blob/main/setup.md|
 |Notes on Windows security events collected by Sentinel|https://github.com/joetanx/sentinel/blob/main/windows-security-events.md|
 |Setup Windows event forwarding between machines in separate domains or WORKGROUP environments|https://github.com/joetanx/sentinel/blob/main/windows-event-forwarding.md|
-|Setup Cribl to ingest Windows events and Linux syslog|https://github.com/joetanx/setup/blob/main/cribl.md|
-|Configure Cribl to send events to Sentinel|https://github.com/joetanx/sentinel/blob/main/cribl.md|
 
 ### Microsoft Lab
 
@@ -20,6 +18,14 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Onboard VM credentials to Azure key vault to secure VM access via bastion|https://github.com/joetanx/mslab/blob/main/key-vault.md|
 |Setup the [UsersApp](https://github.com/joetanx/usersapp/) behind Azure application gateway with WAF protection|https://github.com/joetanx/mslab/blob/main/appgw-waf-usersapp.md|
 |Setup Azure Arc connection for on-premise Windows and Linux machines|https://github.com/joetanx/mslab/blob/main/arc.md|
+
+### Cribl
+
+|Topic|Link|
+|---|---|
+|Setup Cribl to ingest Windows events and Linux syslog|https://github.com/joetanx/cribl/blob/main/setup.md|
+|Configure Cribl to send events to Sentinel|https://github.com/joetanx/cribl/blob/main/sentinel.md|
+|Cribl pipeline examples|https://github.com/joetanx/cribl/blob/main/pipelines.md|
 
 ### Applications
 
