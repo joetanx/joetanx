@@ -41,6 +41,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 |Topic|Link|
 |---|---|
+|Notes on making web or REST API requests using PowerShell and cURL<br>+ data structure and representation in PowerShell|https://github.com/joetanx/setup/blob/main/web-request-notes.md|
 |Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)|<https://github.com/joetanx/setup/blob/main/cri-o-kube.md>|
 |Setup single-node Openshift|<https://github.com/joetanx/setup/blob/main/single-node-openshift.md>|
 |Setup GitLab community edition|<https://github.com/joetanx/setup/blob/main/gitlab.md>|
