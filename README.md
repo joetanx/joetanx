@@ -35,6 +35,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 |Topic|Link|
 |---|---|
+|Observability stack with OpenTelemetry (colllector), Prometheus (Metrics), Tempo (Traces), Loki (Logs) and Grafana (Visualization)<br>+ demo app adapted from the OpenTelemetry [node.js dice app](https://opentelemetry.io/docs/languages/js/getting-started/nodejs/)|https://github.com/joetanx/o11y-lab|
 |UsersApp Node.js|<https://github.com/joetanx/usersapp/>|
 |CityApp PHP|<https://github.com/joetanx/cityapp-php/>|
 |Notes and examples on using Node.js|<https://github.com/joetanx/node.js/>|
