@@ -14,10 +14,18 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Threat hunting in Sentinel for domain name indicators using Sysmon and syslog events|https://github.com/joetanx/sentinel/blob/main/hunting-domain-name.md|
 |Walk through on connecting Sentinel workspace to Defender portal|https://github.com/joetanx/sentinel/blob/main/defender-portal.md|
 
+### Defender
+
+|Topic|Link|
+|---|---|
+|Unified RBAC|https://github.com/joetanx/defender/blob/main/unified-rbac.md|
+|Multi-tenant management|https://github.com/joetanx/defender/blob/main/mto.md|
+
 ### Microsoft Lab
 
 |Topic|Link|
 |---|---|
+|Notes on setting up Configuration Manager (System Center) and other system roles to support the Endpoint Protection feature|https://github.com/joetanx/mslab/tree/main/ConfigMgr<br>|
 |OAuth 2.0 flows with Entra identity|https://github.com/joetanx/mslab/blob/main/oauth-2.0-flows.md|
 |Secure Azure VM access with Bastion and internet connection with Azure Firewall|https://github.com/joetanx/mslab/blob/main/firewall-bastion-natgw.md|
 |Onboard VM credentials to Azure key vault to secure VM access via bastion|https://github.com/joetanx/mslab/blob/main/key-vault.md|
