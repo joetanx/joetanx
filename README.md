@@ -30,6 +30,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Secure Azure VM access with Bastion and internet connection with Azure Firewall|https://github.com/joetanx/mslab/blob/main/firewall-bastion-natgw.md|
 |Onboard VM credentials to Azure key vault to secure VM access via bastion|https://github.com/joetanx/mslab/blob/main/key-vault.md|
 |Setup Azure Arc connection for on-premise Windows and Linux machines|https://github.com/joetanx/mslab/blob/main/arc.md|
+|Create Azure OpenAI resource (for use with tools like n8n)|https://github.com/joetanx/mslab/blob/main/azure-openai.md|
 
 ### Cribl
 
