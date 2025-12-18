@@ -13,6 +13,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Threat hunting in Sentinel for file hash indicators with Sysmon events|https://github.com/joetanx/sentinel/blob/main/hunting-file-hash.md|
 |Threat hunting in Sentinel for domain name indicators using Sysmon and syslog events|https://github.com/joetanx/sentinel/blob/main/hunting-domain-name.md|
 |Walk through on connecting Sentinel workspace to Defender portal|https://github.com/joetanx/sentinel/blob/main/defender-portal.md|
+|Data Lake|https://github.com/joetanx/sentinel/blob/main/data-lake.md|
 
 ### Defender
 
@@ -52,23 +53,28 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 ### Others
 
+|Topic|Description|
+|---|---|
+|[Lab Certs](https://github.com/joetanx/lab-certs)|All the lab certificates and openssl commands for self-signed certificate chain|
+|[Podman](https://github.com/joetanx/setup/blob/main/podman/)|Podman setup and notes on the nuances of container networking and volume mounts|
+|[Kubernetes](https://github.com/joetanx/setup/blob/main/kubernetes/)|Single-node Kubernetes setup on Ubuntu with Helm, cert-manager, Traefik and Kubernetes dashboard|
+|[Traefik](https://github.com/joetanx/setup/blob/main/traefik/)|Setup Traefik for lab traffic routing; nuances on Traefik routing under [routing-notes](https://github.com/joetanx/setup/blob/main/traefik/routing-notes.md)|
+|[Nginx](https://github.com/joetanx/setup/blob/main/nginx/)|Setup Nginx for reverse proxy and TLS offloading|
+|[Databases](https://github.com/joetanx/setup/blob/main/databases/)|Running PostgreSQL in container for the lab services (and MySQL maybe in the future)|
+|[Agent Runners](https://github.com/joetanx/setup/blob/main/agent-runners/)|Setting up n8n and Langflow for agentic AI lab|
+|[OpenCTI](https://github.com/joetanx/setup/blob/main/opencti/)|Setup OpenCTI lab and various connectors|
+|[Lab Services](https://github.com/joetanx/setup/blob/main/lab-services/)|Setup demo services: SmartMail SMTP, GitLab CI/CD and Keycloak IdP|
+|[Web Request](https://github.com/joetanx/setup/blob/main/notes/web-request.md)|Notes on using cURL and PowerShell to make web requests|
+
+### Archived: CyberArk stuff
+
 |Topic|Link|
 |---|---|
-|Notes on making web or REST API requests using PowerShell and cURL<br>+ data structure and representation in PowerShell|https://github.com/joetanx/setup/blob/main/web-request-notes.md|
-|Setup single-node Kubernetes cluster (with RHEL, CRI-O and Flannel)|<https://github.com/joetanx/setup/blob/main/cri-o-kube.md>|
-|Setup single-node Openshift|<https://github.com/joetanx/setup/blob/main/single-node-openshift.md>|
-|Setup GitLab community edition|<https://github.com/joetanx/setup/blob/main/gitlab.md>|
-|Setup Keycloak|<https://github.com/joetanx/setup/blob/main/keycloak.md>|
-|Setup MySQL database|<https://github.com/joetanx/setup/blob/main/mysql.md>|
-|Setup PostgreSQL database|<https://github.com/joetanx/setup/blob/main/postgres.md>|
-|Generate self-signed certificate chain with openssl|<https://github.com/joetanx/lab-certs/>|
 |Hashicorp Vault and Boundary|<https://github.com/joetanx/hashicorp>|
 |Delinea Secret Server|<https://github.com/joetanx/delinea-secret-server>|
 |Teleport|<https://github.com/joetanx/teleport>|
 |Elastic SOC Lab + Suricata and CyberArk PAM integration|<https://github.com/joetanx/setup/blob/main/soc-lab.md>|
 |Load Balancing CyberArk Servers|<https://github.com/joetanx/load-balancing-cyberark/>|
-
-### Archived: CyberArk stuff
 
 #### Conjur Setup
 
