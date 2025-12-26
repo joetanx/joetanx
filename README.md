@@ -4,16 +4,16 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 ### Sentinel
 
-|Topic|Link|
+|Topic|Description|
 |---|---|
-|Setup basic Sentinel workspace with Windows and Linux logs ingestion|https://github.com/joetanx/sentinel/blob/main/setup.md|
-|Notes on Windows security events collected by Sentinel|https://github.com/joetanx/sentinel/blob/main/windows-security-events.md|
-|Setup Windows event forwarding between machines in separate domains or WORKGROUP environments|https://github.com/joetanx/sentinel/blob/main/windows-event-forwarding.md|
-|Ingest events to Sentinel using logs ingestion API|https://github.com/joetanx/sentinel/blob/main/logs-ingestion-api.md|
-|Threat hunting in Sentinel for file hash indicators with Sysmon events|https://github.com/joetanx/sentinel/blob/main/hunting-file-hash.md|
-|Threat hunting in Sentinel for domain name indicators using Sysmon and syslog events|https://github.com/joetanx/sentinel/blob/main/hunting-domain-name.md|
-|Walk through on connecting Sentinel workspace to Defender portal|https://github.com/joetanx/sentinel/blob/main/defender-portal.md|
-|Data Lake|https://github.com/joetanx/sentinel/blob/main/data-lake.md|
+|[Event collection to Sentinel](https://github.com/joetanx/sentinel/blob/main/collection/)|Various topics on events ingestion to Sentinel|
+|[Windows security events collected by Sentinel](https://github.com/joetanx/sentinel/blob/main/collection/windows-security-events.md)|Write-up on the events collected by Sentinel Windows security DCR when configured for All, Common or Minimal set of Windows security events|
+|[Windows event forwarding](https://github.com/joetanx/sentinel/blob/main/collection/windows-event-forwarding.md)|Windows event forwarding between machines in separate domains or WORKGROUP environments|
+|[Logs ingestion API](https://github.com/joetanx/sentinel/blob/main/logs-ingestion-api/)|Ingest events to Sentinel using logs ingestion API|
+|[File hash hunting](https://github.com/joetanx/sentinel/blob/main/detection/hunting-file-hash.md)|Threat hunting in Sentinel for file hash indicators with Sysmon events|
+|[Domain name hunting](https://github.com/joetanx/sentinel/blob/main/detection/hunting-domain-name.md)|Threat hunting in Sentinel for domain name indicators using Sysmon and syslog events|
+|[Sentinel in Defender portal](https://github.com/joetanx/sentinel/blob/main/defender-portal.md)|Walk through on connecting Sentinel workspace to Defender portal|
+|[Data lake](https://github.com/joetanx/sentinel/blob/main/data-lake.md)|Write-up on Sentinel data lake use cases|
 
 ### Defender
 
