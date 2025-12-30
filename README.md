@@ -35,21 +35,21 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 ### Cribl
 
-|Topic|Link|
+|Topic|Description|
 |---|---|
-|Setup Cribl to ingest Windows events and Linux syslog|https://github.com/joetanx/cribl/blob/main/setup.md|
-|Configure Cribl to send events to Sentinel|https://github.com/joetanx/cribl/blob/main/sentinel.md|
-|Cribl pipeline examples|https://github.com/joetanx/cribl/blob/main/pipelines.md|
+|[Setup Cribl](https://github.com/joetanx/cribl/blob/main/setup.md)|Install Cribl and configure syslog and WEF data sources|
+|[Cribl to Sentinel](https://github.com/joetanx/cribl/blob/main/sentinel.md)|• Setup Entra app registration for Cribl<br>• Setup data collection endpoint/rule<br>• Configure Sentinel data destination<br>• Routing events to Sentinel|
+|[Cribl pipelines](https://github.com/joetanx/cribl/blob/main/pipelines.md)|Configure pipeline to send syslog and WEF events such that event parameters align with the schema of the native `Syslog` and `SecurityEvent` tables in Sentinel|
 
 ### Applications
 
-|Topic|Link|
+|Topic|Description|
 |---|---|
-|Observability stack with OpenTelemetry (colllector), Prometheus (Metrics), Tempo (Traces), Loki (Logs) and Grafana (Visualization)<br>+ Node.js demo app adapted from [OpenTelemetry](https://opentelemetry.io/docs/languages/js/getting-started/nodejs/)|https://github.com/joetanx/o11y-lab|
-|UsersApp Node.js|<https://github.com/joetanx/usersapp/>|
-|CityApp PHP|<https://github.com/joetanx/cityapp-php/>|
-|Notes and examples on using Node.js|<https://github.com/joetanx/node.js/>|
-|Serverless application on AWS<br>• AJAX client end page<br>• API Gateway<br>• Lambda (Node.js)<br>• RDS (MySQL)<br>• EC2 examples with Python and Node.js|Secrets Manager: <https://github.com/joetanx/aws-rds-sm/><br>IAM Authentication: <https://github.com/joetanx/aws-rds-iam-authn/>|
+|[Observability lab](https://github.com/joetanx/o11y-lab)|Observability stack with OpenTelemetry (colllector), Prometheus (metrics), Tempo (traces), Loki (logs) and Grafana (visualization)<br>+ Node.js demo app adapted from [OpenTelemetry](https://opentelemetry.io/docs/languages/js/getting-started/nodejs/)|
+|[UsersApp](https://github.com/joetanx/usersapp/)|Example Node.js application on user authentication service<br>• Publish web app through Express framework<br>• Example user pages and API endpoints<br>• Backend databases on both MySQL and PostgreSQL<br>• Simple authentication and session management: bcrypt password hashing and JWT session token<br>• Deployment methods: Kubernetes, Podman quadlets and manual install|
+|[CityApp](https://github.com/joetanx/cityapp-php/)|Simple PHP application that fetches a random row from the example world database each time the page is refreshed|
+|[Node.js notes](https://github.com/joetanx/node.js/)|• Understanding functions and variables<br>• Using exports and module.exports<br>• Using callbacks and promises<br>•	Connecting node.js to MySQL database|
+|• [CityApp with Secrets Manager](https://github.com/joetanx/aws-rds-sm/)<br>• [CityApp with IAM Authentication](https://github.com/joetanx/aws-rds-iam-authn/)|Serverless application on AWS<br>• PHP CityApp adapted to Node.js and Python<br>• AJAX client end page<br>• API Gateway<br>• Lambda (Node.js)<br>• RDS (MySQL)<br>• EC2 examples with Python and Node.js|
 
 ### Others
 
@@ -73,14 +73,14 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |Hashicorp Vault and Boundary|<https://github.com/joetanx/hashicorp>|
 |Delinea Secret Server|<https://github.com/joetanx/delinea-secret-server>|
 |Teleport|<https://github.com/joetanx/teleport>|
-|Elastic SOC Lab + Suricata and CyberArk PAM integration|<https://github.com/joetanx/setup/blob/main/soc-lab.md>|
+|Elastic SOC Lab + Suricata and CyberArk PAM integration|<https://github.com/joetanx/setup/blob/main/archived/soc-lab.md>|
 |Load Balancing CyberArk Servers|<https://github.com/joetanx/load-balancing-cyberark/>|
 
 #### Conjur Setup
 
 |Topic|Link|
 |---|---|
-|Setup standalone Conjur Enterprise leader on Podman on RHEL 9|<https://github.com/joetanx/setup/blob/main/conjur.md>|
+|Setup standalone Conjur Enterprise leader on Podman on RHEL 9|<https://github.com/joetanx/setup/blob/main/archived/conjur.md>|
 |Setup Conjur Enterprise cluster and followers + Podman + RHEL 9 + Keepalived + Nginx|<https://github.com/joetanx/conjur-cluster/>|
 |Setup Conjur Open Source Suite on RHEL with Podman|<https://github.com/joetanx/conjur-oss/>|
 
