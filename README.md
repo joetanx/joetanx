@@ -13,7 +13,7 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 |[File hash hunting](https://github.com/joetanx/sentinel/blob/main/detection/hunting-file-hash.md)|Threat hunting in Sentinel for file hash indicators with Sysmon events|
 |[Domain name hunting](https://github.com/joetanx/sentinel/blob/main/detection/hunting-domain-name.md)|Threat hunting in Sentinel for domain name indicators using Sysmon and syslog events|
 |[Sentinel in Defender portal](https://github.com/joetanx/sentinel/blob/main/defender-portal.md)|Walk through on connecting Sentinel workspace to Defender portal|
-|[Data lake](https://github.com/joetanx/sentinel/blob/main/data-lake.md)|Write-up on Sentinel data lake use cases|
+|[Sentinel MCP](https://github.com/joetanx/sentinel/blob/main/mcp.md)|Write-up on [Sentinel MCP](https://learn.microsoft.com/en-us/azure/sentinel/datalake/sentinel-mcp-overview) for agentic operations|
 
 ### Defender
 
