@@ -4,11 +4,12 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 ### Agent 365
 
-|Topic|Description|
+| Topic | Description |
 |---|---|
-|[Agent 365 CLI](https://github.com/joetanx/mslab/blob/main/agent-365/a365-cli.md)|Setting up Agent 365 CLI and using the CLI to setup an agent in Agent 365|
-|[Enable Security for AI](https://github.com/joetanx/mslab/blob/main/agent-365/enable-security-for-ai.md)|Setting up [security for AI agents](https://learn.microsoft.com/en-us/security/security-for-ai/agent-365-security)|
-|[Publishing agents](https://github.com/joetanx/mslab/blob/main/agent-365/publish-agents-to-teams-copilot.md)|Walkthrough of publishing agents from Copilot Studio and Foundry,<br>and approving request to publish to M365 Copilot and Teams|
+| [Agent 365 SDK samples](https://github.com/joetanx/mslab/blob/main/agent-365/samples) | Sample agents for Microsoft Agent Framework and Langchain deploying in Container Apps |
+| [Agent 365 CLI](https://github.com/joetanx/mslab/blob/main/agent-365/a365-cli.md) | Setting up Agent 365 CLI and using the CLI to setup an agent in Agent 365 |
+| [Enable Security for AI](https://github.com/joetanx/mslab/blob/main/agent-365/enable-security-for-ai.md) | Setting up [security for AI agents](https://learn.microsoft.com/en-us/security/security-for-ai/agent-365-security) |
+| [Publishing agents](https://github.com/joetanx/mslab/blob/main/agent-365/publish-agents-to-teams-copilot.md) | Walkthrough of publishing agents from Copilot Studio and Foundry,<br>and approving request to publish to M365 Copilot and Teams |
 
 ### [Entra authorization flows](https://github.com/joetanx/mslab/tree/main/entra/flows)
 
@@ -49,13 +50,14 @@ Profile artwork by [Paper and Cat](https://www.instagram.com/paperandcat/)
 
 ### Microsoft Lab
 
-|Topic|Description|
+| Topic | Description |
 |---|---|
-|[Microsoft Foundry](https://github.com/joetanx/mslab/blob/main/foundry.md)|• Setup AI resources in Azure<br>• Connect to models via API endpoint and key (for use with tools like n8n and Langflow)|
-|[Azure perimeter network](https://github.com/joetanx/mslab/blob/main/firewall-bastion-natgw.md)|Secure Azure virtual network:<br>• VM access with Bastion<br>• Outbound internet connection with Azure Firewall and NAT gateway|
-|[Key vault](https://github.com/joetanx/mslab/blob/main/key-vault.md)|Onboard VM credentials to key vault to secure VM access via bastion|
-|[Azure Arc](https://github.com/joetanx/mslab/blob/main/arc.md)|Connect on-premise Windows and Linux machines for Azure hybrid cloud management|
-|[Configuration manager](https://github.com/joetanx/mslab/tree/main/ConfigMgr/)|• Setup Configuration Manager and system roles<br>• Setup Endpoint Protection feature|
+| [Microsoft Foundry](https://github.com/joetanx/mslab/blob/main/foundry.md) | • Setup AI resources in Azure<br>• Connect to models via API endpoint and key (for use with tools like n8n and Langflow) |
+| [Azure OpenAI](https://github.com/joetanx/mslab/blob/main/azure-openai.md) | Create Azure OpenAI resource (for use with tools like n8n) |
+| [Azure perimeter network](https://github.com/joetanx/mslab/blob/main/firewall-bastion-natgw.md) | Secure Azure virtual network:<br>• VM access with Bastion<br>• Outbound internet connection with Azure Firewall and NAT gateway |
+| [Key vault](https://github.com/joetanx/mslab/blob/main/key-vault.md) | Onboard VM credentials to Azure key vault to secure VM access via bastion |
+| [Azure Arc](https://github.com/joetanx/mslab/blob/main/arc.md) | Setup Azure Arc connection for on-premise Windows and Linux machines |
+| [Configuration manager](https://github.com/joetanx/mslab/tree/main/ConfigMgr/) | • Setup Configuration Manager and system roles<br>• Setup Endpoint Protection feature |
 
 ### Cribl
 
